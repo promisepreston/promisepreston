@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-\\- I’m Promise Chukwuenyem
+- I’m Promise Chukwuenyem
 - 👀 I’m interested in DevOps Engineering, Ruby, Python and Go.
 - 🌱 I’m currently learning all things Cloud Native
 - 💞️ I’m looking to collaborate on exciting projects
